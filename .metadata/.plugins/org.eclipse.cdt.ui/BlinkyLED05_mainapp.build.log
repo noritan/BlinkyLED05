@@ -1,0 +1,6 @@
+21:25:05 **** Incremental Build of configuration Debug for project BlinkyLED05_mainapp ****
+"C:\\Users\\ntan\\ModusToolbox_1.0\\tools\\modus-shell-1.0\\bin\\make" -j4 all 
+make: Nothing to be done for `all'.
+
+21:25:07 Build Finished (took 1s.410ms)
+
